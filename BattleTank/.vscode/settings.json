@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"E:/Udemy_Unreal_Course/UnrealCourseRepo/BattleTank/.vscode": true,
+		"E:/Udemy_Unreal_Course/UnrealCourseRepo/BattleTank/Content": true,
+		"E:/Udemy_Unreal_Course/UnrealCourseRepo/BattleTank/Intermediate": true
+	}
+}
